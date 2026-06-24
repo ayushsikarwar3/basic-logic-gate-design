@@ -74,7 +74,7 @@ All implemented logic gates were tested successfully, and the observed outputs m
 
 # Author
 
-- Ayush Sikarwar btech electronics and communication
+- Ayush Sikarwar|btech electronics and communication
 - linkedin-https://www.linkedin.com/in/ayush-sikarwar-a89878413?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 # License
