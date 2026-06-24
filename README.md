@@ -40,7 +40,7 @@ Objectives
 - IC 7486 (XOR)
 # Tool used
 
-tinkercad(circuit simulator0
+tinkercad (circuit simulator)
 
 # Working Principle
 
