@@ -4,11 +4,10 @@ Hardware implementation and verification of fundamentals digital logic gates usi
 This project focuses on the design and implementation of basic digital logic gates using standard TTL ICs and a breadboard setup. The project includes AND, OR, NOT, NAND, NOR, and XOR gates. Each gate is tested experimentally, and its output is verified against the corresponding truth table. The project helps in understanding the fundamentals of digital electronics, Boolean logic, and digital circuit design, serving as a foundation for advanced topics such as combinational circuits, sequential circuits, FPGA design, and VLSI systems.
 #Basic Logic Gate Design
 
-Project Overview
 
 This project demonstrates the design and implementation of fundamental digital logic gates using TTL ICs and a breadboard setup. The objective is to understand the working principles of digital electronics and verify the truth tables of various logic gates through hardware implementation.
 
-Objectives
+# Objectives
 
 - Understand the operation of basic logic gates.
 - Implement digital circuits using 74xx series ICs.
