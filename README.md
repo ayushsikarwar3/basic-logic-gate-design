@@ -38,6 +38,9 @@ Objectives
 - IC 7400 (NAND)
 - IC 7402 (NOR)
 - IC 7486 (XOR)
+# Tool used
+
+tinkercad(circuit simulator0
 
 # Working Principle
 
