@@ -1,18 +1,15 @@
 # basic-logic-gate-design
 Hardware implementation and verification of fundamentals digital logic gates using 74xx series ICs, demonstrating digital electronics concept, circuit design and logic analysis.
 # overview
-This project focuses on the design and implementation of basic digital logic gates using standard TTL ICs and a breadboard setup. The project includes AND, OR, NOT, NAND, NOR, and XOR gates. Each gate is tested experimentally, and its output is verified against the corresponding truth table. The project helps in understanding the fundamentals of digital electronics, Boolean logic, and digital circuit design, serving as a foundation for advanced topics such as combinational circuits, sequential circuits, FPGA design, and VLSI systems.
-#Basic Logic Gate Design
+In this project the design and implementation of simple digital logic gates only with the use of the standard TTL ICs and bread board circuit. AND, OR, NOT, NAND, NOR and XOR gates are used in the project. Each gate is tested in the practical and the output compared to the truth table. The project assists in the understanding of the basics of digital electronics, Boolean logic, and digital circuit design which forms the basis for advanced topics such as the combinational circuit, sequential circuit, design of FPGA, and VLSI systems.
 
+This is a project which shows how to design and implement the basic digital logic gates using TTL ICs and breadboard arrangement. The goal is to gain insight into the functioning of digital electronics and ensure correct truth tables of various logic gates by the implementation of hardware.
 
-This project demonstrates the design and implementation of fundamental digital logic gates using TTL ICs and a breadboard setup. The objective is to understand the working principles of digital electronics and verify the truth tables of various logic gates through hardware implementation.
-
-# Objectives
-
+# Objectives-
 - Understand the operation of basic logic gates.
-- Implement digital circuits using 74xx series ICs.
-- Verify gate outputs using truth tables.
-- Develop practical skills in digital electronics.
+- Design digital circuits with 74xx ICs.
+- Test the output of gates with truth tables.
+- Develop practical skills in digital electronics
 
 # Logic Gates Implemented
 
